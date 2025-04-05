@@ -28,6 +28,7 @@ section{
 section > div{
     padding: 25px;
     border-radius: 10px;
+    box-shadow: 25px 25px 35px rgb(206, 206, 206);
 }
 
 #one{
